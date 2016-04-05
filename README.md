@@ -1,6 +1,6 @@
 # identifi-node
 Npm package bundle for identifi-daemon &amp; identifi-cli &amp; identifi-js
 
-    npm install identifi
+    npm install identifi -g
 
 https://www.npmjs.com/package/identifi
