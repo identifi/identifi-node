@@ -11,21 +11,26 @@
   "repository": "identifi/identifi-node",
   "license": "MIT",
   "files": [
-    "index.js"
+    "identifi",
+    "identifid"
   ],
   "keywords": [
     "identifi",
-    "identity"
+    "identity",
+    "trust",
+    "web of trust",
+    "rating",
+    "reputation"
   ],
   "dependencies": {
-    "identifi-cli": "0.0.6",
-    "identifi-daemon": "0.0.6"
+    "identifi-cli": "*",
+    "identifi-daemon": "*"
   },
   "devDependencies": {
   },
   "scripts": {},
   "bin": {
-    "identifi": "./node_modules/identifi-cli/identifi",
-    "identifid": "./node_modules/identifi-daemon/identifid"
+    "identifid": "identifid",
+    "identifi": "identifi"
   }
 }
