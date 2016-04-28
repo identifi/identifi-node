@@ -1,6 +1,6 @@
 {
   "name": "identifi",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Identifi bundle: daemon & cli & browser app",
   "homepage": "https://github.com/identifi/identifi-node",
   "author": {
