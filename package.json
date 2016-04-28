@@ -24,7 +24,8 @@
   ],
   "dependencies": {
     "identifi-cli": "*",
-    "identifi-daemon": "*"
+    "identifi-daemon": "*",
+    "identifi-angular": "*"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
